@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/test")
 public class Controller {
     public void ex01(){
-
+        System.out.println("ex01");
     }
 }
